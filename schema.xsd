@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- declara schema folosind namespace-ul standard pentru XML Schema -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- radacina documentului XML este <bookings> -->
+  <xs:element name="bookings">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- poate conține unul sau mai multe elemente <booking> -->
+        <xs:element name="booking" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <!-- fiecare <booking> are 4 elemente în ordine fixă -->
+              <xs:element name="id" type="xs:string"/>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="room" type="xs:string"/>
+              <!-- data trebuie să fie în formatul YYYY-MM-DD -->
+              <xs:element name="date" type="xs:date"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

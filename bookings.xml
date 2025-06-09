@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookings>
+    <booking>
+        <id>1fdcb496-f3d8-4c48-9d53-25c5854ca49d</id>
+        <name>Maria Popescu</name>
+        <room>102</room>
+        <date>2025-06-15</date>
+    </booking>
+    <booking>
+        <id>0c95d8d1-4c4c-41fa-985f-515b4bfb451f</id>
+        <name>Murgu Adrian</name>
+        <room>145</room>
+        <date>2025-06-26</date>
+    </booking>
+    <booking>
+        <id>b7154409-c5df-4d4d-b10b-c0e5d91e6fc6</id>
+        <name>Surdu Marius</name>
+        <room>12</room>
+        <date>2025-04-10</date>
+    </booking>
+    <booking>
+        <id>38cdedcc-c072-465b-892b-c29f109af48f</id>
+        <name>Calu Andrei</name>
+        <room>565</room>
+        <date>2025-04-02</date>
+    </booking>
+    <booking>
+        <id>3dd72e4e-f7da-4627-82b5-2fb4cbc53f43</id>
+        <name>Rusu Iulian</name>
+        <room>567</room>
+        <date>2025-06-30</date>
+    </booking>
+    <booking>
+        <id>a8c61d1d-1454-40af-ae4e-defd55f9dc52</id>
+        <name>Andrei Remus</name>
+        <room>150</room>
+        <date>2025-04-08</date>
+    </booking>
+    <booking>
+        <id>138e358d-4643-417f-9590-ef2f8a4c1c74</id>
+        <name>Alin Catalin</name>
+        <room>1001</room>
+        <date>2025-06-18</date>
+    </booking>
+    <booking>
+        <id>c2baa939-bc7d-4d75-a61b-c93d66772b3a</id>
+        <name>Sever Ioan</name>
+        <room>580</room>
+        <date>2025-01-15</date>
+    </booking>
+    <booking>
+        <id>d05f9fdc-9c7b-4742-8183-2aa4bdafc9e0</id>
+        <name>Surdu Catalina</name>
+        <room>12</room>
+        <date>2025-04-02</date>
+    </booking>
+    <booking>
+        <id>a54ff1db-fbcc-4917-a212-8db8f8d7756c</id>
+        <name>Sever Alina</name>
+        <room>580</room>
+        <date>2025-01-15</date>
+    </booking>
+    <booking>
+        <id>4188c5d5-8570-4ee5-b1e7-1b90a133fd73</id>
+        <name>Ion Ionel</name>
+        <room>11</room>
+        <date>2025-06-30</date>
+    </booking>
+    <booking>
+        <id>124f31d8-2540-47c8-a002-806ba717882b</id>
+        <name>Jacota Ioana</name>
+        <room>1</room>
+        <date>2025-06-09</date>
+    </booking>
+    <booking>
+        <id>5412718c-71b2-4407-bbc7-ff1246d62dfd</id>
+        <name>Ioan-Andrei Dima</name>
+        <room>1</room>
+        <date>2025-06-09</date>
+    </booking>
+    <booking>
+        <id>040afa2a-97a6-442b-9c4d-87d21c0a4730</id>
+        <name>Mircea Antal</name>
+        <room>15</room>
+        <date>2025-06-17</date>
+    </booking>
+    <booking>
+        <id>07881094-257a-4a7f-b2cc-83ae7aebe88e</id>
+        <name>Maria Ionescu</name>
+        <room>12313</room>
+        <date>2025-07-17</date>
+    </booking>
+    <booking>
+        <id>c15c9676-860c-473e-a728-ae466b4cf01b</id>
+        <name>Remus Panait</name>
+        <room>443</room>
+        <date>2025-07-02</date>
+    </booking>
+    <booking>
+        <id>f7de08a9-2e18-4873-8e8f-e7db4b0314ec</id>
+        <name>Andra Vulpe</name>
+        <room>22</room>
+        <date>2025-07-16</date>
+    </booking>
+    <booking>
+        <id>7ca1c508-cfff-4d62-8c85-5649fd17892d</id>
+        <name>Ianis Hagi</name>
+        <room>166</room>
+        <date>2025-07-30</date>
+    </booking>
+    <booking>
+        <id>1a4a9218-2b96-4459-9659-3a8a5cf3def9</id>
+        <name>Marius Manea</name>
+        <room>5</room>
+        <date>2024-09-11</date>
+    </booking>
+    <booking>
+        <id>997ca8eb-271a-4ff7-bf75-5a61dd0e78d3</id>
+        <name>Ioan-Andrei Dima</name>
+        <room>144</room>
+        <date>2024-09-11</date>
+    </booking>
+    <booking>
+        <id>2c022f94-7664-4aa9-9108-ccbf67e11532</id>
+        <name>Jacota Ioana</name>
+        <room>101</room>
+        <date>2025-06-14</date>
+    </booking>
+    <booking>
+        <id>4810a2b8-7fdf-40f5-9ad9-c5b18eee0214</id>
+        <name>Ioan-Andrei Dima</name>
+        <room>100</room>
+        <date>2023-06-14</date>
+    </booking>
+    <booking>
+        <id>9ce09b2c-f84a-46c8-a5b3-d101adf7b547</id>
+        <name>Ion Popescu</name>
+        <room>500</room>
+        <date>2025-06-10</date>
+    </booking>
+</bookings>

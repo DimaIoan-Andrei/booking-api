@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1fdcb496-f3d8-4c48-9d53-25c5854ca49d",
+    "name": "Maria Popescu",
+    "room": "102",
+    "date": "2025-06-15"
+  },
+  {
+    "id": "0c95d8d1-4c4c-41fa-985f-515b4bfb451f",
+    "name": "Murgu Adrian",
+    "room": "145",
+    "date": "2025-06-26"
+  },
+  {
+    "id": "b7154409-c5df-4d4d-b10b-c0e5d91e6fc6",
+    "name": "Surdu Marius",
+    "room": "12",
+    "date": "2025-04-10"
+  },
+  {
+    "id": "38cdedcc-c072-465b-892b-c29f109af48f",
+    "name": "Calu Andrei",
+    "room": "565",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "3dd72e4e-f7da-4627-82b5-2fb4cbc53f43",
+    "name": "Rusu Iulian",
+    "room": "567",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "a8c61d1d-1454-40af-ae4e-defd55f9dc52",
+    "name": "Andrei Remus",
+    "room": "150",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "138e358d-4643-417f-9590-ef2f8a4c1c74",
+    "name": "Alin Catalin",
+    "room": "1001",
+    "date": "2025-06-18"
+  },
+  {
+    "id": "c2baa939-bc7d-4d75-a61b-c93d66772b3a",
+    "name": "Sever Ioan",
+    "room": "580",
+    "date": "2025-01-15"
+  },
+  {
+    "id": "d05f9fdc-9c7b-4742-8183-2aa4bdafc9e0",
+    "name": "Surdu Catalina",
+    "room": "12",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "a54ff1db-fbcc-4917-a212-8db8f8d7756c",
+    "name": "Sever Alina",
+    "room": "580",
+    "date": "2025-01-15"
+  },
+  {
+    "id": "4188c5d5-8570-4ee5-b1e7-1b90a133fd73",
+    "name": "Ion Ionel",
+    "room": "11",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "124f31d8-2540-47c8-a002-806ba717882b",
+    "name": "Jacota Ioana",
+    "room": "1",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "5412718c-71b2-4407-bbc7-ff1246d62dfd",
+    "name": "Ioan-Andrei Dima",
+    "room": "1",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "040afa2a-97a6-442b-9c4d-87d21c0a4730",
+    "name": "Mircea Antal",
+    "room": "15",
+    "date": "2025-06-17"
+  },
+  {
+    "id": "07881094-257a-4a7f-b2cc-83ae7aebe88e",
+    "name": "Maria Ionescu",
+    "room": "12313",
+    "date": "2025-07-17"
+  },
+  {
+    "id": "c15c9676-860c-473e-a728-ae466b4cf01b",
+    "name": "Remus Panait",
+    "room": "443",
+    "date": "2025-07-02"
+  },
+  {
+    "id": "f7de08a9-2e18-4873-8e8f-e7db4b0314ec",
+    "name": "Andra Vulpe",
+    "room": "22",
+    "date": "2025-07-16"
+  },
+  {
+    "id": "7ca1c508-cfff-4d62-8c85-5649fd17892d",
+    "name": "Ianis Hagi",
+    "room": "166",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "1a4a9218-2b96-4459-9659-3a8a5cf3def9",
+    "name": "Marius Manea",
+    "room": "5",
+    "date": "2024-09-11"
+  },
+  {
+    "id": "997ca8eb-271a-4ff7-bf75-5a61dd0e78d3",
+    "name": "Ioan-Andrei Dima",
+    "room": "144",
+    "date": "2024-09-11"
+  },
+  {
+    "id": "2c022f94-7664-4aa9-9108-ccbf67e11532",
+    "name": "Jacota Ioana",
+    "room": "101",
+    "date": "2025-06-14"
+  },
+  {
+    "id": "4810a2b8-7fdf-40f5-9ad9-c5b18eee0214",
+    "name": "Ioan-Andrei Dima",
+    "room": "100",
+    "date": "2023-06-14"
+  },
+  {
+    "id": "9ce09b2c-f84a-46c8-a5b3-d101adf7b547",
+    "name": "Ion Popescu",
+    "room": "500",
+    "date": "2025-06-10"
+  }
+]
