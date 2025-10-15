@@ -4,7 +4,7 @@ This project represents a REST API developed in Python using Flask, designed for
 
 ---
 
-## 🔧 Core API Features
+## Core API Features
 
 ### Authentication
 - **Endpoint:** `/login`  
@@ -43,7 +43,7 @@ This project represents a REST API developed in Python using Flask, designed for
 
 ---
 
-## 🔄 XML Export and Validation
+## XML Export and Validation
 
 The application includes support for exporting bookings to XML format and validating them using an XSD schema file.
 
@@ -65,7 +65,7 @@ These functionalities are also integrated into the HTML dashboard via accessible
 
 ---
 
-## 🖥️ Web Interface: Dashboard
+## Web Interface: Dashboard
 
 - **Endpoint:** `/dashboard`  
 - **Methods:** `GET`, `POST`  
@@ -81,14 +81,14 @@ These functionalities are also integrated into the HTML dashboard via accessible
 
 ---
 
-## 💾 Persistence
+## Persistence
 
 - All bookings are saved in the `data.json` file.
 - Data is automatically loaded and saved on every modification.
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 ```bash
 python main.py
@@ -99,7 +99,7 @@ Upon startup, the app will automatically open the browser at:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - `requirements.txt`
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📫 API Testing Examples (Postman)
+## API Testing Examples (Postman)
 
 1. Login (`/login`) → copy token (POST)  
 2. Create booking with `Authorization: Bearer <token>` (POST)  
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 ├── main.py               # Main application logic
@@ -134,6 +134,6 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠️ Final Note
+## Final Note
 
 This project is designed for educational or internal prototyping purposes. It is not recommended for production use without additional security measures.
